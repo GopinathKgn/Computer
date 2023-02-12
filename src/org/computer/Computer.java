@@ -6,6 +6,7 @@ public class Computer {
 		System.out.println("Computer RAM: 2B");
 		System.out.println("ROM size: 250GB");
 		System.out.println("System RAM : 2GB");
+		System.out.println("OS : Windows 7");
 
 		// <<<<<<< HEAD
 		// =======
